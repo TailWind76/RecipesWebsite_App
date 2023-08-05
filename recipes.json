@@ -4,7 +4,7 @@
     "RecipeID": 1,
     "RecipeName": "Lettuce Wrap",
     "RecipeCategory": "Salad",
-    "RecipeImage": "./images/LettuceWrap.webp",
+    "RecipeImage": "/images/LettuceWrap.webp",
     "RecipeCookingTime": "30 minutes",
     "recipePreparingTime": "15 minutes",
     "RecipeIngridients": ["Lettuce", "Ground Chicken", "Soy Sauce", "Ginger", "Garlic", "Green Onions"],
