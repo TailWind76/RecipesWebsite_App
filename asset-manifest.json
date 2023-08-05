@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RecipesWebsite_App/static/css/main.e5c0f399.css",
-    "main.js": "/RecipesWebsite_App/static/js/main.ef82d27b.js",
+    "main.js": "/RecipesWebsite_App/static/js/main.7965c9fd.js",
     "static/js/787.28cb0dcd.chunk.js": "/RecipesWebsite_App/static/js/787.28cb0dcd.chunk.js",
     "static/media/chefLike.png": "/RecipesWebsite_App/static/media/chefLike.15365c6d0262018c6da2.png",
     "static/media/Pizza.jpg": "/RecipesWebsite_App/static/media/Pizza.0e679225cca9b4ed0da9.jpg",
@@ -57,11 +57,11 @@
     "index.html": "/RecipesWebsite_App/index.html",
     "static/media/facebook.svg": "/RecipesWebsite_App/static/media/facebook.23f5833c6434fffab8060cc43ac6a36b.svg",
     "main.e5c0f399.css.map": "/RecipesWebsite_App/static/css/main.e5c0f399.css.map",
-    "main.ef82d27b.js.map": "/RecipesWebsite_App/static/js/main.ef82d27b.js.map",
+    "main.7965c9fd.js.map": "/RecipesWebsite_App/static/js/main.7965c9fd.js.map",
     "787.28cb0dcd.chunk.js.map": "/RecipesWebsite_App/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5c0f399.css",
-    "static/js/main.ef82d27b.js"
+    "static/js/main.7965c9fd.js"
   ]
 }
