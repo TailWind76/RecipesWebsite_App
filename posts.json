@@ -4,7 +4,7 @@
       "PostAuthor": "John Smith",
       "PostDate": "2023-08-04",
       "PostTitle": "Delicious Pasta Recipes",
-      "PostMainImage": "images/post1.png",
+      "PostMainImage": "/RecipesWebsite_App/images/post1.png",
       "PostContent": [
         {
           "PostContentTitle": "Introduction",
