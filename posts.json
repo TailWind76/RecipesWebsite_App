@@ -77,7 +77,7 @@
       "PostAuthor": "Michael Baker",
       "PostDate": "2023-08-05",
       "PostTitle": "Decadent Chocolate Desserts",
-      "PostMainImage": "/RecipesWebsite_App/images/post3.png",
+      "PostMainImage": "RecipesWebsite_App/images/post3.png",
       "PostContent": [
         {
           "PostContentTitle": "Introduction",
@@ -113,7 +113,7 @@
       "PostAuthor": "Jessica Thompson",
       "PostDate": "2023-08-06",
       "PostTitle": "Tasty Breakfast Ideas",
-      "PostMainImage": "/images/ProChef.webp",
+      "PostMainImage": "RecipesWebsite_App/images/ProChef.webp",
       "PostContent": [
         {
           "PostContentTitle": "Introduction",
@@ -150,7 +150,7 @@
       "PostAuthor": "William Turner",
       "PostDate": "2023-08-07",
       "PostTitle": "Homemade Pizza Party",
-      "PostMainImage": "/images/Ramen.webp",
+      "PostMainImage": "RecipesWebsite_App/images/Ramen.webp",
       "PostContent": [
         {
           "PostContentTitle": "Introduction",
@@ -185,7 +185,7 @@
         "PostAuthor": "Sophia Martinez",
         "PostDate": "2023-08-08",
         "PostTitle": "Exotic Flavors: Thai Cuisine",
-        "PostMainImage": "/images/TacoMeat.webp",
+        "PostMainImage": "RecipesWebsite_App/images/TacoMeat.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -222,7 +222,7 @@
         "PostAuthor": "Daniel Anderson",
         "PostDate": "2023-08-09",
         "PostTitle": "Mouthwatering Burgers",
-        "PostMainImage": "/images/Salad.webp",
+        "PostMainImage": "RecipesWebsite_App/images/Salad.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -259,7 +259,7 @@
         "PostAuthor": "Olivia Walker",
         "PostDate": "2023-08-10",
         "PostTitle": "Farm-to-Table Delights",
-        "PostMainImage": "/images/Meatballs.webp",
+        "PostMainImage": "RecipesWebsite_App/images/Meatballs.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -296,7 +296,7 @@
         "PostAuthor": "Noah Foster",
         "PostDate": "2023-08-11",
         "PostTitle": "Authentic Indian Curries",
-        "PostMainImage": "/images/TropicalSalad.webp",
+        "PostMainImage": "RecipesWebsite_App/images/TropicalSalad.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -333,7 +333,7 @@
         "PostAuthor": "Emma Collins",
         "PostDate": "2023-08-12",
         "PostTitle": "Divine Dessert Creations",
-        "PostMainImage": "/images/TropicalSalad.webp",
+        "PostMainImage": "RecipesWebsite_App/images/TropicalSalad.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -370,7 +370,7 @@
         "PostAuthor": "James Peterson",
         "PostDate": "2023-08-13",
         "PostTitle": "Flavorful Middle Eastern Cuisine",
-        "PostMainImage": "/images/FriedRice.webp",
+        "PostMainImage": "RecipesWebsite_App/images/FriedRice.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -407,7 +407,7 @@
         "PostAuthor": "Ava Lewis",
         "PostDate": "2023-08-14",
         "PostTitle": "Hearty Vegetarian Stews",
-        "PostMainImage": "/images/FriedRice.webp",
+        "PostMainImage": "RecipesWebsite_App/images/FriedRice.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -444,7 +444,7 @@
         "PostAuthor": "Ethan Morgan",
         "PostDate": "2023-08-15",
         "PostTitle": "Gourmet Cheese Platters",
-        "PostMainImage": "/images/PostImage.webp",
+        "PostMainImage": "RecipesWebsite_App/images/PostImage.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -481,7 +481,7 @@
         "PostAuthor": "Harper Ramirez",
         "PostDate": "2023-08-16",
         "PostTitle": "Exquisite French Pastries",
-        "PostMainImage": "/images/PostImage.webp",
+        "PostMainImage": "RecipesWebsite_App/images/PostImage.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -518,7 +518,7 @@
         "PostAuthor": "Scarlett Hayes",
         "PostDate": "2023-08-17",
         "PostTitle": "Sushi Masterclass",
-        "PostMainImage": "/images/Pancacke.webp",
+        "PostMainImage": "RecipesWebsite_App/images/Pancacke.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -554,7 +554,7 @@
         "PostAuthor": "Jackson Lee",
         "PostDate": "2023-08-18",
         "PostTitle": "Mouthwatering Barbecue Ribs",
-        "PostMainImage": "/images/Pancacke.webp",
+        "PostMainImage": "RecipesWebsite_App/images/Pancacke.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -591,7 +591,7 @@
         "PostAuthor": "Victoria King",
         "PostDate": "2023-08-19",
         "PostTitle": "Sensational Seafood Feast",
-        "PostMainImage": "/images/burger.webp",
+        "PostMainImage": "RecipesWebsite_App/images/burger.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -628,7 +628,7 @@
         "PostAuthor": "Luke Mitchell",
         "PostDate": "2023-08-20",
         "PostTitle": "Authentic Italian Pizzas",
-        "PostMainImage": "/images/burger.webp",
+        "PostMainImage": "RecipesWebsite_App/images/burger.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -665,7 +665,7 @@
         "PostAuthor": "Isabella Scott",
         "PostDate": "2023-08-21",
         "PostTitle": "Refreshing Summer Cocktails",
-        "PostMainImage": "/images/burger.webp",
+        "PostMainImage": "RecipesWebsite_App/images/burger.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -702,7 +702,7 @@
         "PostAuthor": "Sophie Turner",
         "PostDate": "2023-08-22",
         "PostTitle": "Flavorful Indian Biryani",
-        "PostMainImage": "/images/Pasta.webp",
+        "PostMainImage": "RecipesWebsite_App/images/Pasta.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -739,7 +739,7 @@
         "PostAuthor": "Nathan Hughes",
         "PostDate": "2023-08-23",
         "PostTitle": "Exotic Thai Street Food",
-        "PostMainImage": "/images/Pasta.webp",
+        "PostMainImage": "RecipesWebsite_App/images/Pasta.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -776,7 +776,7 @@
         "PostAuthor": "Oliver Reed",
         "PostDate": "2023-08-24",
         "PostTitle": "Vegetarian Mexican Delights",
-        "PostMainImage": "/images/LettuceWrap.webp",
+        "PostMainImage": "RecipesWebsite_App/images/LettuceWrap.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -813,7 +813,7 @@
         "PostAuthor": "Grace Phillips",
         "PostDate": "2023-08-25",
         "PostTitle": "Homemade Artisan Bread",
-        "PostMainImage": "/images/LettuceWrap.webp",
+        "PostMainImage": "RecipesWebsite_App/images/LettuceWrap.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -850,7 +850,7 @@
         "PostAuthor": "Henry Baker",
         "PostDate": "2023-08-26",
         "PostTitle": "Tempting Chocolate Confections",
-        "PostMainImage": "/images/LettuceWrap.webp",
+        "PostMainImage": "RecipesWebsite_App/images/LettuceWrap.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
@@ -887,7 +887,7 @@
         "PostAuthor": "Emily Wright",
         "PostDate": "2023-08-27",
         "PostTitle": "Comforting Soup Classics",
-        "PostMainImage": "/images/LettuceWrap.webp",
+        "PostMainImage": "RecipesWebsite_App/images/LettuceWrap.webp",
         "PostContent": [
           {
             "PostContentTitle": "Introduction",
