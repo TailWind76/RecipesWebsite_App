@@ -341,7 +341,7 @@ a {
 }
 .recipes__item .recipes__item_img {
   width: 100%;
-  height: 250px;
+  height: 200px;
   border-radius: 25px;
 }
 .recipes__item .recipe_follow {
@@ -371,6 +371,7 @@ a {
 .recipes__item .recipe_info_item p {
   font-size: 14px !important;
   margin: 0 !important;
+  width: 50%;
 }
 
 .Homepage_chef {
@@ -1185,6 +1186,8 @@ footer nav .nav-item {
 }
 
 @media screen and (max-width: 970px) {
+
+  
   header {
     height: auto;
     flex-direction: column;
@@ -1192,6 +1195,9 @@ footer nav .nav-item {
   .Logo {
     display: flex;
     flex-direction: row;
+  }
+  .Homepage_introduce__banner{
+    height: 650px;
   }
 
   .RecipesCategory .Homepage_recipes__items{

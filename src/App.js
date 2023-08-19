@@ -17,12 +17,11 @@ function App() {
         <Header />
         <Routes>
           <Route path="/RecipesWebsite_App" element={<Homepage />} />
-          <Route path="RecipesWebsite_App/contact" element={<Contact />} />
-          <Route path="RecipesWebsite_App/recipe/:id" element={<RecipePage/>} />
-          <Route path='RecipesWebsite_App/blogs' element={<BlogArticlePage/>} />
-          <Route path='RecipesWebsite_App/blog/:id' element={<BlogPage/>} />
-          <Route path='RecipesWebsite_App/recipes/category/:category' element={<RecipesCategory/>} /> 
-      
+          <Route path="/RecipesWebsite_App/contact" element={<Contact />} />
+          <Route path="/RecipesWebsite_App/recipe/:id" element={<RecipePage/>} />
+          <Route path="/RecipesWebsite_App/blogs" element={<BlogArticlePage/>} />
+          <Route path="/RecipesWebsite_App/blog/:id" element={<BlogPage/>} />
+          <Route path="/RecipesWebsite_App/recipes/category/:category" element={<RecipesCategory/>} /> 
         </Routes>
         <Footer />
       </motion.div> 
