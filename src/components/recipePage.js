@@ -128,7 +128,7 @@ function RecipePage() {
 
                     <h3>Other Recipe</h3>
             {allRecipes.slice(0,3).map((item)=>(
-                     <Link to={`RecipesWebsite_App/recipe/${item.RecipeID}`}className='OtherRecipeBlock_item' key={item.RecipeName}>
+                     <Link to={`/RecipesWebsite_App/recipe/${item.RecipeID}`}className='OtherRecipeBlock_item' key={item.RecipeName}>
                         <img src={item.RecipeImage} />
                     <div className='OtherRecipeBlock_item-text'>
                         <h4>{item.RecipeName}</h4>
