@@ -1,0 +1,814 @@
+[
+  
+  {
+    "RecipeID": 1,
+    "RecipeName": "Lettuce Wrap",
+    "RecipeCategory": "Salad",
+    "RecipeImage": "/RecipesWebsite_App/images/LettuceWrap.webp",
+    "RecipeCookingTime": "30 minutes",
+    "recipePreparingTime": "15 minutes",
+    "RecipeIngridients": ["Lettuce", "Ground Chicken", "Soy Sauce", "Ginger", "Garlic", "Green Onions"],
+    "RecipeAuthorName": "John Smith",
+    "RecipeAuthorImage": "/images/author1.jpg",
+    "RecipePostDate": "2023-08-04",
+    "RecipeDirections": [
+      {
+        "Subheading": "Prepare the lettuce leaves",
+        "Descriptions": [
+          "Wash and separate the lettuce leaves.",
+          "Pat them dry with a paper towel."
+        ],
+        "Image": "/RecipesWebsite_App/images/PostImage.webp",
+        "placement": "start"
+      },
+      {
+        "Subheading": "Cook the ground chicken mixture",
+        "Descriptions": [
+          "In a pan, cook the ground chicken with soy sauce, ginger, and garlic until fully cooked."
+        ],
+        "Image": "/RecipesWebsite_App/images/PostImage.webp"
+      },
+      {
+        "Subheading": "Fill each lettuce leaf",
+        "Descriptions": [
+          "Place a spoonful of the cooked chicken mixture onto each lettuce leaf."
+        ],
+        "Image": "/RecipesWebsite_App/images/PostImage.webp"
+      },
+      {
+        "Subheading": "Garnish with green onions",
+        "Descriptions": [
+          "Sprinkle sliced green onions over the chicken-filled lettuce leaves."
+        ],
+        "Image": "/RecipesWebsite_App/images/PostImage.webp",
+        "placement": "end"
+      }
+    ],
+    "RecipeNutrion": {
+      "NutrionCallories": 250,
+      "NutrionTotalFat": 10,
+      "NutrionProtein": 20,
+      "NutrionCarbohydrate": 15,
+      "NutrionCholesterol": 50
+    }
+  },
+  {
+    "RecipeID": 2,
+    "RecipeName": "Meatballs",
+    "RecipeCategory": "Meat",
+    "RecipeImage": "/RecipesWebsite_App/images/Meatballs.webp",
+    "RecipeCookingTime": "40 minutes",
+    "recipePreparingTime": "20 minutes",
+    "RecipeIngridients": ["Ground Beef", "Breadcrumbs", "Egg", "Onion", "Garlic", "Tomato Sauce"],
+    "RecipeAuthorName": "Jane Doe",
+    "RecipeAuthorImage": "/images/author2.jpg",
+    "RecipePostDate": "2023-08-03",
+    "RecipeDirections": [
+      {
+        "Subheading": "Mix the meatball ingredients",
+        "Descriptions": [
+          "In a bowl, mix together ground beef, breadcrumbs, egg, onion, and garlic."
+        ],
+        "Image": "/RecipesWebsite_App/images/step1.jpg"
+      },
+      {
+        "Subheading": "Form the meatballs",
+        "Descriptions": [
+          "Shape the meat mixture into meatballs of your desired size."
+        ],
+        "Image": "/RecipesWebsite_App/images/step2.jpg"
+      },
+      {
+        "Subheading": "Cook the meatballs",
+        "Descriptions": [
+          "Cook the meatballs in tomato sauce until they are fully cooked and tender."
+        ],
+        "Image": "/RecipesWebsite_App/images/step3.jpg"
+      }
+    ],
+    "RecipeNutrion": {
+      "NutrionCallories": 350,
+      "NutrionTotalFat": 15,
+      "NutrionProtein": 25,
+      "NutrionCarbohydrate": 20,
+      "NutrionCholesterol": 70
+    }
+  },
+  {
+    "RecipeID": 3,
+    "RecipeName": "Pancake",
+    "RecipeCategory": "Breakfast",
+    "RecipeImage": "/RecipesWebsite_App/images/Pancacke.webp",
+    "RecipeCookingTime": "20 minutes",
+    "recipePreparingTime": "10 minutes",
+    "RecipeIngridients": ["Flour", "Milk", "Eggs", "Sugar", "Baking Powder", "Salt", "Butter", "Maple Syrup"],
+    "RecipeAuthorName": "Emma Taylor",
+    "RecipeAuthorImage": "/images/author15.jpg",
+    "RecipePostDate": "2023-07-21",
+    "RecipeDirections": [
+      {
+        "Subheading": "Mix dry ingredients",
+        "Descriptions": [
+          "In a bowl, whisk together flour, sugar, baking powder, and salt."
+        ],
+        "Image": "/RecipesWebsite_App/images/pancake_step1.jpg"
+      },
+      {
+        "Subheading": "Add wet ingredients",
+        "Descriptions": [
+          "In a separate bowl, whisk together milk, eggs, and melted butter."
+        ],
+        "Image": "/RecipesWebsite_App/images/pancake_step2.jpg"
+      },
+      {
+        "Subheading": "Combine the mixtures",
+        "Descriptions": [
+          "Pour the wet ingredients into the dry ingredients and mix until just combined."
+        ],
+        "Image": "/RecipesWebsite_App/images/pancake_step3.jpg"
+      },
+      {
+        "Subheading": "Cook the pancakes",
+        "Descriptions": [
+          "Heat a non-stick pan over medium heat. Pour a scoop of batter onto the pan and cook until bubbles form on the surface. Flip and cook the other side until golden brown."
+        ],
+        "Image": "/RecipesWebsite_App/images/pancake_step4.jpg"
+      },
+      {
+        "Subheading": "Serve with maple syrup",
+        "Descriptions": [
+          "Stack the pancakes on a plate and serve them warm with maple syrup and additional toppings if desired."
+        ],
+        "Image": "/RecipesWebsite_App/images/pancake_step5.jpg"
+      }
+    ],
+    "RecipeNutrion": {
+      "NutrionCallories": 200,
+      "NutrionTotalFat": 6,
+      "NutrionProtein": 5,
+      "NutrionCarbohydrate": 30,
+      "NutrionCholesterol": 50
+    }
+  }
+  ,
+  {
+    "RecipeID": 4,
+    "RecipeName": "Pasta",
+    "RecipeCategory": "Lunch",
+    "RecipeImage": "/RecipesWebsite_App/images/Pasta.webp",
+    "RecipeCookingTime": "25 minutes",
+    "recipePreparingTime": "10 minutes",
+    "RecipeIngridients": ["Pasta", "Tomato Sauce", "Ground Beef", "Onion", "Garlic", "Olive Oil"],
+    "RecipeAuthorName": "Emily Adams",
+    "RecipeAuthorImage": "/images/author4.jpg",
+    "RecipePostDate": "2023-08-01",
+    "RecipeDirections": [
+      {
+        "Subheading": "Cook the pasta",
+        "Descriptions": [
+          "Cook the pasta according to package instructions until al dente. Drain and set aside."
+        ],
+        "Image": "/RecipesWebsite_App/images/pasta_step1.jpg"
+      },
+      {
+        "Subheading": "Saute onion and garlic",
+        "Descriptions": [
+          "In a pan, sauté chopped onion and minced garlic in olive oil until fragrant."
+        ],
+        "Image": "/RecipesWebsite_App/images/pasta_step2.jpg"
+      },
+      {
+        "Subheading": "Cook the ground beef",
+        "Descriptions": [
+          "Add ground beef to the pan with onions and garlic. Cook until browned and fully cooked."
+        ],
+        "Image": "/RecipesWebsite_App/images/pasta_step3.jpg"
+      },
+      {
+        "Subheading": "Mix in the tomato sauce",
+        "Descriptions": [
+          "Pour tomato sauce into the pan with the beef mixture. Simmer for a few minutes to combine the flavors."
+        ],
+        "Image": "/RecipesWebsite_App/images/pasta_step4.jpg"
+      },
+      {
+        "Subheading": "Toss with cooked pasta",
+        "Descriptions": [
+          "Add the cooked pasta to the sauce and toss until the pasta is coated evenly."
+        ],
+        "Image": "/RecipesWebsite_App/images/pasta_step5.jpg"
+      },
+      {
+        "Subheading": "Serve and garnish",
+        "Descriptions": [
+          "Serve the pasta while it's hot. Garnish with grated cheese and fresh herbs, if desired."
+        ],
+        "Image": "/RecipesWebsite_App/images/pasta_step6.jpg"
+      }
+    ],
+    "RecipeNutrion": {
+      "NutrionCallories": 400,
+      "NutrionTotalFat": 12,
+      "NutrionProtein": 20,
+      "NutrionCarbohydrate": 50,
+      "NutrionCholesterol": 40
+    }
+  }
+  ,
+   {
+  "RecipeID": 5,
+  "RecipeName": "Chicken Stir-Fry",
+  "RecipeCategory": "Meat",
+  "RecipeImage": "/RecipesWebsite_App/images/PotChickenRice.webp",
+  "RecipeCookingTime": "30 minutes",
+  "recipePreparingTime": "15 minutes",
+  "RecipeIngridients": ["Chicken Breast", "Bell Peppers", "Broccoli", "Carrots", "Soy Sauce", "Sesame Oil", "Garlic", "Ginger", "Cornstarch", "Rice"],
+  "RecipeAuthorName": "Michael Chen",
+  "RecipeAuthorImage": "/images/author9.jpg",
+  "RecipePostDate": "2023-08-02",
+  "RecipeDirections": [
+    {
+      "Subheading": "Prepare the sauce",
+      "Descriptions": [
+        "In a bowl, mix soy sauce, water, sesame oil, minced garlic, grated ginger, and cornstarch to make the stir-fry sauce."
+      ],
+      "Image": "/RecipesWebsite_App/images/stirfry_step1.jpg"
+    },
+    {
+      "Subheading": "Slice the chicken and vegetables",
+      "Descriptions": [
+        "Slice the chicken breast, bell peppers, broccoli, and carrots into thin, uniform pieces."
+      ],
+      "Image": "/RecipesWebsite_App/images/stirfry_step2.jpg"
+    },
+    {
+      "Subheading": "Cook the chicken",
+      "Descriptions": [
+        "In a wok or large skillet, stir-fry the chicken in a bit of sesame oil until cooked through. Remove from the pan and set aside."
+      ],
+      "Image": "/RecipesWebsite_App/images/stirfry_step3.jpg"
+    },
+    {
+      "Subheading": "Stir-fry the vegetables",
+      "Descriptions": [
+        "Stir-fry the vegetables in the same wok until they are crisp-tender."
+      ],
+      "Image": "/RecipesWebsite_App/images/stirfry_step4.jpg"
+    },
+    {
+      "Subheading": "Combine chicken, vegetables, and sauce",
+      "Descriptions": [
+        "Return the chicken to the wok, add the prepared sauce, and toss everything together until well coated."
+      ],
+      "Image": "/RecipesWebsite_App/images/stirfry_step5.jpg"
+    },
+    {
+      "Subheading": "Serve with rice",
+      "Descriptions": [
+        "Serve the chicken stir-fry over cooked rice and garnish with sesame seeds and green onions, if desired."
+      ],
+      "Image": "/RecipesWebsite_App/images/stirfry_step6.jpg"
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 350,
+    "NutrionTotalFat": 8,
+    "NutrionProtein": 25,
+    "NutrionCarbohydrate": 45,
+    "NutrionCholesterol": 60
+  }
+}
+,
+{
+  "RecipeID": 6,
+  "RecipeName": "Ramen",
+  "RecipeCategory": "Soup",
+  "RecipeImage": "/RecipesWebsite_App/images/Ramen.webp",
+  "RecipeCookingTime": "20 minutes",
+  "recipePreparingTime": "10 minutes",
+  "RecipeIngridients": ["Ramen Noodles", "Broth", "Boiled Egg", "Green Onions", "Seaweed", "Soy Sauce"],
+  "RecipeAuthorName": "Sophia Johnson",
+  "RecipeAuthorImage": "/images/author6.jpg",
+  "RecipePostDate": "2023-07-30",
+  "RecipeDirections": [
+    {
+      "Subheading": "Cook the ramen noodles",
+      "Descriptions": [
+        "Cook the ramen noodles according to the package instructions. Drain and set aside."
+      ],
+      "Image": "/RecipesWebsite_App/images/ramen_step1.jpg"
+    },
+    {
+      "Subheading": "Heat the broth",
+      "Descriptions": [
+        "In a separate pot, heat the broth until it's hot and ready for serving."
+      ],
+      "Image": "/RecipesWebsite_App/images/ramen_step2.jpg"
+    },
+    {
+      "Subheading": "Add the cooked noodles",
+      "Descriptions": [
+        "Add the cooked ramen noodles to the hot broth. Stir to combine."
+      ],
+      "Image": "/RecipesWebsite_App/images/ramen_step3.jpg"
+    },
+    {
+      "Subheading": "Top with boiled egg and green onions",
+      "Descriptions": [
+        "Place a boiled egg cut in half and sliced green onions on top of the ramen."
+      ],
+      "Image": "/RecipesWebsite_App/images/ramen_step4.jpg"
+    },
+    {
+      "Subheading": "Garnish with seaweed and season",
+      "Descriptions": [
+        "Add some seaweed for extra flavor. Season with soy sauce according to taste."
+      ],
+      "Image": "/RecipesWebsite_App/images/ramen_step5.jpg"
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 280,
+    "NutrionTotalFat": 8,
+    "NutrionProtein": 15,
+    "NutrionCarbohydrate": 35,
+    "NutrionCholesterol": 60
+  }
+}
+,
+  {
+  "RecipeID": 7,
+  "RecipeName": "Roasted Salmon",
+  "RecipeCategory": "Seafood",
+  "RecipeImage": "/RecipesWebsite_App/images/RoastedSalmon.webp",
+  "RecipeCookingTime": "30 minutes",
+  "recipePreparingTime": "5 minutes",
+  "RecipeIngridients": ["Salmon Fillet", "Olive Oil", "Lemon", "Garlic", "Dill", "Salt", "Pepper"],
+  "RecipeAuthorName": "Daniel Taylor",
+  "RecipeAuthorImage": "/images/author7.jpg",
+  "RecipePostDate": "2023-07-29",
+  "RecipeDirections": [
+    {
+      "Subheading": "Preheat the oven",
+      "Descriptions": [
+        "Preheat the oven to 400°F (200°C)."
+      ],
+      "Image": "/RecipesWebsite_App/images/salmon_step1.jpg"
+    },
+    {
+      "Subheading": "Prepare the salmon",
+      "Descriptions": [
+        "Place the salmon fillet on a baking sheet lined with parchment paper."
+      ],
+      "Image": "/RecipesWebsite_App/images/salmon_step2.jpg"
+    },
+    {
+      "Subheading": "Drizzle with olive oil and lemon",
+      "Descriptions": [
+        "Drizzle olive oil and lemon juice over the salmon fillet."
+      ],
+      "Image": "/RecipesWebsite_App/images/salmon_step3.jpg"
+    },
+    {
+      "Subheading": "Sprinkle with minced garlic and dill",
+      "Descriptions": [
+        "Sprinkle minced garlic and dill over the salmon. Season with salt and pepper."
+      ],
+      "Image": "/RecipesWebsite_App/images/salmon_step4.jpg"
+    },
+    {
+      "Subheading": "Roast in the oven",
+      "Descriptions": [
+        "Roast the salmon in the preheated oven for 20-25 minutes, or until it's cooked to your desired doneness."
+      ],
+      "Image": "/RecipesWebsite_App/images/salmon_step5.jpg"
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 320,
+    "NutrionTotalFat": 15,
+    "NutrionProtein": 30,
+    "NutrionCarbohydrate": 10,
+    "NutrionCholesterol": 80
+  }
+}
+,
+{
+  "RecipeID": 8,
+  "RecipeName": "Salad",
+  "RecipeCategory": "Salad",
+  "RecipeImage": "/RecipesWebsite_App/images/Salad.webp",
+  "RecipeCookingTime": "15 minutes",
+  "recipePreparingTime": "10 minutes",
+  "RecipeIngridients": ["Lettuce", "Tomatoes", "Cucumbers", "Bell Peppers", "Olives", "Feta Cheese", "Olive Oil", "Balsamic Vinegar"],
+  "RecipeAuthorName": "Jessica Lee",
+  "RecipeAuthorImage": "/images/author8.jpg",
+  "RecipePostDate": "2023-07-28",
+  "RecipeDirections": [
+    {
+      "Subheading": "Wash and chop the vegetables",
+      "Descriptions": ["Wash the lettuce, tomatoes, cucumbers, and bell peppers. Chop them into bite-sized pieces."]
+    },
+    {
+      "Subheading": "Toss together the ingredients",
+      "Descriptions": ["In a large bowl, toss together the chopped vegetables and pitted olives."]
+    },
+    {
+      "Subheading": "Add crumbled feta cheese",
+      "Descriptions": ["Sprinkle crumbled feta cheese over the salad mixture."]
+    },
+    {
+      "Subheading": "Drizzle with olive oil and balsamic vinegar",
+      "Descriptions": ["Drizzle extra-virgin olive oil and balsamic vinegar over the salad for dressing."]
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 150,
+    "NutrionTotalFat": 7,
+    "NutrionProtein": 5,
+    "NutrionCarbohydrate": 20,
+    "NutrionCholesterol": 10
+  }
+},
+{
+  "RecipeID": 9,
+  "RecipeName": "Spicy Sandwiches",
+  "RecipeCategory": "Sandwich",
+  "RecipeImage": "/RecipesWebsite_App/images/SpicySandwitches.webp",
+  "RecipeCookingTime": "15 minutes",
+  "recipePreparingTime": "5 minutes",
+  "RecipeIngridients": ["Bread", "Chicken", "Lettuce", "Tomato", "Mayonnaise", "Hot Sauce"],
+  "RecipeAuthorName": "David Martinez",
+  "RecipeAuthorImage": "/images/author9.jpg",
+  "RecipePostDate": "2023-07-27",
+  "RecipeDirections": [
+    {
+      "Subheading": "Cook and shred the chicken",
+      "Descriptions": ["Cook chicken and shred it into small pieces using a fork or your hands."]
+    },
+    {
+      "Subheading": "Toast the bread slices",
+      "Descriptions": ["Toast the bread slices until they're golden and crispy."]
+    },
+    {
+      "Subheading": "Assemble the sandwiches",
+      "Descriptions": ["Place a layer of lettuce and sliced tomatoes on one slice of bread. Add the shredded chicken and drizzle with mayonnaise."]
+    },
+    {
+      "Subheading": "Add hot sauce",
+      "Descriptions": ["For extra spiciness, add hot sauce on top of the chicken. Close the sandwich with the other slice of bread."]
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 300,
+    "NutrionTotalFat": 10,
+    "NutrionProtein": 20,
+    "NutrionCarbohydrate": 35,
+    "NutrionCholesterol": 40
+  }
+},
+{
+  "RecipeID": 10,
+  "RecipeName": "Taco Meat",
+  "RecipeCategory": "Meat",
+  "RecipeImage": "/RecipesWebsite_App/images/TacoMeat.webp",
+  "RecipeCookingTime": "20 minutes",
+  "recipePreparingTime": "10 minutes",
+  "RecipeIngridients": ["Ground Beef", "Taco Seasoning", "Tortillas", "Lettuce", "Tomato", "Cheese", "Sour Cream", "Salsa"],
+  "RecipeAuthorName": "Sophia Anderson",
+  "RecipeAuthorImage": "/images/author10.jpg",
+  "RecipePostDate": "2023-07-26",
+  "RecipeDirections": [
+    {
+      "Subheading": "Cook and season the ground beef",
+      "Descriptions": ["Cook the ground beef in a skillet until fully cooked. Add taco seasoning and mix well."]
+    },
+    {
+      "Subheading": "Warm the tortillas",
+      "Descriptions": ["Warm the tortillas on a dry skillet or microwave until they're soft and pliable."]
+    },
+    {
+      "Subheading": "Assemble the tacos",
+      "Descriptions": ["Fill each tortilla with the seasoned ground beef, shredded lettuce, diced tomatoes, and shredded cheese."]
+    },
+    {
+      "Subheading": "Add sour cream and salsa",
+      "Descriptions": ["Top the tacos with a dollop of sour cream and your favorite salsa."]
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 400,
+    "NutrionTotalFat": 15,
+    "NutrionProtein": 25,
+    "NutrionCarbohydrate": 40,
+    "NutrionCholesterol": 70
+  }
+},
+{
+  "RecipeID": 11,
+  "RecipeName": "Tropical Salad",
+  "RecipeCategory": "Salad",
+  "RecipeImage": "/RecipesWebsite_App/images/TropicalSalad.webp",
+  "RecipeCookingTime": "15 minutes",
+  "recipePreparingTime": "10 minutes",
+  "RecipeIngridients": ["Mixed Greens", "Mango", "Avocado", "Red Onion", "Cashews", "Lime Juice", "Olive Oil", "Salt", "Pepper"],
+  "RecipeAuthorName": "Natalie Johnson",
+  "RecipeAuthorImage": "/images/author11.jpg",
+  "RecipePostDate": "2023-07-25",
+  "RecipeDirections": [
+    {
+      "Subheading": "Prepare the fruits and vegetables",
+      "Descriptions": ["Peel and dice the mango, slice the avocado, and finely chop the red onion."]
+    },
+    {
+      "Subheading": "Make the dressing",
+      "Descriptions": ["In a small bowl, whisk together lime juice, olive oil, salt, and pepper to make the dressing."]
+    },
+    {
+      "Subheading": "Assemble the salad",
+      "Descriptions": ["In a large bowl, combine the mixed greens, diced mango, sliced avocado, and chopped red onion. Toss the salad with the dressing."]
+    },
+    {
+      "Subheading": "Add cashews",
+      "Descriptions": ["Sprinkle cashews on top of the salad for added crunch."]
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 200,
+    "NutrionTotalFat": 10,
+    "NutrionProtein": 5,
+    "NutrionCarbohydrate": 25,
+    "NutrionCholesterol": 0
+  }
+},
+{
+  "RecipeID": 12,
+  "RecipeName": "Beef",
+  "RecipeCategory": "Meat",
+  "RecipeImage": "/RecipesWebsite_App/images/Beef.webp",
+  "RecipeCookingTime": "25 minutes",
+  "recipePreparingTime": "5 minutes",
+  "RecipeIngridients": ["Beef Steak", "Olive Oil", "Rosemary", "Garlic", "Salt", "Pepper"],
+  "RecipeAuthorName": "Olivia Adams",
+  "RecipeAuthorImage": "/images/author12.jpg",
+  "RecipePostDate": "2023-07-24",
+  "RecipeDirections": [
+    {
+      "Subheading": "Prepare the beef steak",
+      "Descriptions": [
+        "Rub both sides of the beef steak with olive oil, minced garlic, chopped rosemary, salt, and pepper."
+      ]
+    },
+    {
+      "Subheading": "Sear the beef",
+      "Descriptions": [
+        "Heat a skillet or grill over high heat. Sear the beef steak for a few minutes on each side until it reaches your preferred level of doneness."
+      ]
+    },
+    {
+      "Subheading": "Let it rest",
+      "Descriptions": [
+        "Remove the steak from the heat and let it rest for a few minutes before slicing and serving."
+      ]
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 380,
+    "NutrionTotalFat": 20,
+    "NutrionProtein": 30,
+    "NutrionCarbohydrate": 0,
+    "NutrionCholesterol": 100
+  }
+},
+{
+  "RecipeID": 13,
+  "RecipeName": "Blueberry",
+  "RecipeCategory": "Fruit",
+  "RecipeImage": "/RecipesWebsite_App/images/Blueberry.webp",
+  "RecipeCookingTime": "30 minutes",
+  "recipePreparingTime": "10 minutes",
+  "RecipeIngridients": ["Blueberries", "Flour", "Sugar", "Butter", "Lemon Juice", "Cinnamon", "Vanilla Ice Cream"],
+  "RecipeAuthorName": "Sophie Turner",
+  "RecipeAuthorImage": "/images/author13.jpg",
+  "RecipePostDate": "2023-07-23",
+  "RecipeDirections": [
+    {
+      "Subheading": "Prepare the blueberry filling",
+      "Descriptions": [
+        "In a bowl, mix blueberries, sugar, lemon juice, and a pinch of cinnamon. Stir well to coat the blueberries."
+      ]
+    },
+    {
+      "Subheading": "Make the crumble topping",
+      "Descriptions": [
+        "In a separate bowl, combine flour, sugar, and cold butter. Use your fingers to mix until the mixture resembles coarse crumbs."
+      ]
+    },
+    {
+      "Subheading": "Layer the blueberries and crumble",
+      "Descriptions": [
+        "In a baking dish, add the blueberry filling at the bottom. Sprinkle the crumble topping evenly over the blueberries."
+      ]
+    },
+    {
+      "Subheading": "Bake until golden",
+      "Descriptions": [
+        "Bake the blueberry crumble in a preheated oven at 375°F (190°C) for about 25-30 minutes or until the topping is golden and the blueberries are bubbling."
+      ]
+    },
+    {
+      "Subheading": "Serve with vanilla ice cream",
+      "Descriptions": [
+        "Serve the warm blueberry crumble with a scoop of vanilla ice cream on top."
+      ]
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 250,
+    "NutrionTotalFat": 10,
+    "NutrionProtein": 3,
+    "NutrionCarbohydrate": 40,
+    "NutrionCholesterol": 20
+  }
+},
+{
+  "RecipeID": 14,
+  "RecipeName": "Burger",
+  "RecipeCategory": "Burger",
+  "RecipeImage": "/RecipesWebsite_App/images/burger.webp",
+  "RecipeCookingTime": "20 minutes",
+  "recipePreparingTime": "15 minutes",
+  "RecipeIngridients": [
+    "Ground Beef",
+    "Burger Buns",
+    "Lettuce",
+    "Tomato",
+    "Cheese",
+    "Ketchup",
+    "Mustard",
+    "Onion",
+    "Pickles"
+  ],
+  "RecipeAuthorName": "Benjamin Miller",
+  "RecipeAuthorImage": "/images/author14.jpg",
+  "RecipePostDate": "2023-07-22",
+  "RecipeDirections": [
+    {
+      "Subheading": "Form the burger patties",
+      "Descriptions": [
+        "Divide the ground beef into equal portions and shape them into burger patties."
+      ],
+      "Image": "/images/burger_step1.jpg"
+    },
+    {
+      "Subheading": "Cook the burger patties",
+      "Descriptions": [
+        "Cook the burger patties on a hot grill or stovetop, flipping once, until they reach your desired level of doneness."
+      ],
+      "Image": "/images/burger_step2.jpg"
+    },
+    {
+      "Subheading": "Toast the burger buns",
+      "Descriptions": [
+        "While the patties are cooking, toast the burger buns on the grill or in a toaster until they're lightly browned."
+      ],
+      "Image": "/images/burger_step3.jpg"
+    },
+    {
+      "Subheading": "Assemble the burgers",
+      "Descriptions": [
+        "Place a cooked burger patty on the bottom half of each bun. Add lettuce, sliced tomatoes, cheese, ketchup, mustard, onions, and pickles."
+      ],
+      "Image": "/images/burger_step4.jpg"
+    },
+    {
+      "Subheading": "Top with the other half of the buns",
+      "Descriptions": [
+        "Close the burgers with the top half of the buns and serve while they're still warm."
+      ],
+      "Image": "/images/burger_step5.jpg"
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 450,
+    "NutrionTotalFat": 25,
+    "NutrionProtein": 30,
+    "NutrionCarbohydrate": 30,
+    "NutrionCholesterol": 80
+  }
+}
+,
+{
+  "RecipeID": 15,
+  "RecipeName": "Pancakes",
+  "RecipeCategory": "Breakfast",
+  "RecipeImage": "/RecipesWebsite_App/images/Pancacke.webp",
+  "RecipeCookingTime": "20 minutes",
+  "recipePreparingTime": "10 minutes",
+  "RecipeIngridients": ["Flour", "Milk", "Eggs", "Sugar", "Baking Powder", "Salt", "Butter", "Maple Syrup"],
+  "RecipeAuthorName": "Emma Taylor",
+  "RecipeAuthorImage": "/images/author15.jpg",
+  "RecipePostDate": "2023-07-21",
+  "RecipeDirections": [
+    {
+      "Subheading": "Mix dry ingredients",
+      "Descriptions": [
+        "In a bowl, whisk together flour, sugar, baking powder, and salt."
+      ],
+      "Image": "/images/pancake_step1.jpg"
+    },
+    {
+      "Subheading": "Add wet ingredients",
+      "Descriptions": [
+        "In a separate bowl, whisk together milk, eggs, and melted butter."
+      ],
+      "Image": "/images/pancake_step2.jpg"
+    },
+    {
+      "Subheading": "Combine the mixtures",
+      "Descriptions": [
+        "Pour the wet ingredients into the dry ingredients and mix until just combined."
+      ],
+      "Image": "/images/pancake_step3.jpg"
+    },
+    {
+      "Subheading": "Cook the pancakes",
+      "Descriptions": [
+        "Heat a non-stick pan over medium heat. Pour a scoop of batter onto the pan and cook until bubbles form on the surface. Flip and cook the other side until golden brown."
+      ],
+      "Image": "/images/pancake_step4.jpg"
+    },
+    {
+      "Subheading": "Serve with maple syrup",
+      "Descriptions": [
+        "Stack the pancakes on a plate and serve them warm with maple syrup and additional toppings if desired."
+      ],
+      "Image": "/images/pancake_step5.jpg"
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 200,
+    "NutrionTotalFat": 6,
+    "NutrionProtein": 5,
+    "NutrionCarbohydrate": 30,
+    "NutrionCholesterol": 50
+  }
+},
+{
+  "RecipeID": 16,
+  "RecipeName": "Fried Rice",
+  "RecipeCategory": "Rice",
+  "RecipeImage":"/RecipesWebsite_App/images/FriedRice.webp",
+  "RecipeCookingTime": "25 minutes",
+  "recipePreparingTime": "15 minutes",
+  "RecipeIngridients": ["Rice", "Chicken", "Shrimp", "Carrots", "Peas", "Eggs", "Soy Sauce", "Sesame Oil", "Green Onions"],
+  "RecipeAuthorName": "Daniel Wilson",
+  "RecipeAuthorImage": "/images/author16.jpg",
+  "RecipePostDate": "2023-07-20",
+  "RecipeDirections": [
+    {
+      "Subheading": "Cook the rice",
+      "Descriptions": [
+        "Cook rice according to package instructions and set aside."
+      ],
+      "Image": "/images/friedrice_step1.jpg"
+    },
+    {
+      "Subheading": "Saute chicken and shrimp",
+      "Descriptions": [
+        "In a large skillet, sauté diced chicken and shrimp until fully cooked."
+      ],
+      "Image": "/images/friedrice_step2.jpg"
+    },
+    {
+      "Subheading": "Add vegetables and eggs",
+      "Descriptions": [
+        "Push the chicken and shrimp to one side of the skillet and add diced carrots, peas, and scrambled eggs to the other side."
+      ],
+      "Image": "/images/friedrice_step3.jpg"
+    },
+    {
+      "Subheading": "Combine everything",
+      "Descriptions": [
+        "Mix the ingredients together and add soy sauce and sesame oil for flavor."
+      ],
+      "Image": "/images/friedrice_step4.jpg"
+    },
+    {
+      "Subheading": "Garnish and serve",
+      "Descriptions": [
+        "Garnish with sliced green onions before serving the delicious fried rice."
+      ],
+      "Image": "/images/friedrice_step5.jpg"
+    }
+  ],
+  "RecipeNutrion": {
+    "NutrionCallories": 400,
+    "NutrionTotalFat": 15,
+    "NutrionProtein": 25,
+    "NutrionCarbohydrate": 40,
+    "NutrionCholesterol": 100
+  }
+}
+  ]
+  
