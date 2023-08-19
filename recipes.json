@@ -758,7 +758,7 @@
   "RecipeID": 16,
   "RecipeName": "Fried Rice",
   "RecipeCategory": "Rice",
-  "RecipeImage": "/RecipesWebsite_Ap/images/FriedRice.webp",
+  "RecipeImage": "/RecipesWebsite_App/images/FriedRice.webp",
   "RecipeCookingTime": "25 minutes",
   "recipePreparingTime": "15 minutes",
   "RecipeIngridients": ["Rice", "Chicken", "Shrimp", "Carrots", "Peas", "Eggs", "Soy Sauce", "Sesame Oil", "Green Onions"],
