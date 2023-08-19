@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RecipesWebsite_App/static/css/main.8e4ff887.css",
-    "main.js": "/RecipesWebsite_App/static/js/main.ba5de2a6.js",
+    "main.css": "/RecipesWebsite_App/static/css/main.106a8ef0.css",
+    "main.js": "/RecipesWebsite_App/static/js/main.bd0298d5.js",
     "static/js/787.28cb0dcd.chunk.js": "/RecipesWebsite_App/static/js/787.28cb0dcd.chunk.js",
     "static/media/chefLike.png": "/RecipesWebsite_App/static/media/chefLike.15365c6d0262018c6da2.png",
     "static/media/Pizza.jpg": "/RecipesWebsite_App/static/media/Pizza.0e679225cca9b4ed0da9.jpg",
@@ -18,8 +18,8 @@
     "static/media/vegan.webp": "/RecipesWebsite_App/static/media/vegan.927b69559c0fca51672a.webp",
     "static/media/Lunch.jpg": "/RecipesWebsite_App/static/media/Lunch.559b0452b6252b59c5d0.jpg",
     "static/media/chef.png": "/RecipesWebsite_App/static/media/chef.eed6abad58e5c932a231.png",
-    "static/media/Rice.jpg": "/RecipesWebsite_App/static/media/Rice.850d75420c4974609b5b.jpg",
     "static/media/meat.jpg": "/RecipesWebsite_App/static/media/meat.cc7430f8b82ea03cdcff.jpg",
+    "static/media/Rice.jpg": "/RecipesWebsite_App/static/media/Rice.0bf0762ae490eb16898a.jpg",
     "static/media/Sandwitch.jpg": "/RecipesWebsite_App/static/media/Sandwitch.3e255644faee36d339cb.jpg",
     "static/media/Soup.jpg": "/RecipesWebsite_App/static/media/Soup.7f2b4f118ae9c4fe10ba.jpg",
     "static/media/Inter-Bold.woff": "/RecipesWebsite_App/static/media/Inter-Bold.1e547cd04bfe2dae1f98.woff",
@@ -56,12 +56,12 @@
     "static/media/instagram.svg": "/RecipesWebsite_App/static/media/instagram.3e12028d7d69ba0d281b7c1c60956c17.svg",
     "index.html": "/RecipesWebsite_App/index.html",
     "static/media/facebook.svg": "/RecipesWebsite_App/static/media/facebook.23f5833c6434fffab8060cc43ac6a36b.svg",
-    "main.8e4ff887.css.map": "/RecipesWebsite_App/static/css/main.8e4ff887.css.map",
-    "main.ba5de2a6.js.map": "/RecipesWebsite_App/static/js/main.ba5de2a6.js.map",
+    "main.106a8ef0.css.map": "/RecipesWebsite_App/static/css/main.106a8ef0.css.map",
+    "main.bd0298d5.js.map": "/RecipesWebsite_App/static/js/main.bd0298d5.js.map",
     "787.28cb0dcd.chunk.js.map": "/RecipesWebsite_App/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e4ff887.css",
-    "static/js/main.ba5de2a6.js"
+    "static/css/main.106a8ef0.css",
+    "static/js/main.bd0298d5.js"
   ]
 }
