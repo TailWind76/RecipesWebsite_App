@@ -26,21 +26,21 @@
         "Descriptions": [
           "In a pan, cook the ground chicken with soy sauce, ginger, and garlic until fully cooked."
         ],
-        "Image": "/images/PostImage.webp"
+        "Image": "/RecipesWebsite_App/images/PostImage.webp"
       },
       {
         "Subheading": "Fill each lettuce leaf",
         "Descriptions": [
           "Place a spoonful of the cooked chicken mixture onto each lettuce leaf."
         ],
-        "Image": "/images/PostImage.webp"
+        "Image": "/RecipesWebsite_App/images/PostImage.webp"
       },
       {
         "Subheading": "Garnish with green onions",
         "Descriptions": [
           "Sprinkle sliced green onions over the chicken-filled lettuce leaves."
         ],
-        "Image": "/images/PostImage.webp",
+        "Image": "/RecipesWebsite_App/images/PostImage.webp",
         "placement": "end"
       }
     ],
@@ -69,21 +69,21 @@
         "Descriptions": [
           "In a bowl, mix together ground beef, breadcrumbs, egg, onion, and garlic."
         ],
-        "Image": "/images/step1.jpg"
+        "Image": "/RecipesWebsite_App/images/step1.jpg"
       },
       {
         "Subheading": "Form the meatballs",
         "Descriptions": [
           "Shape the meat mixture into meatballs of your desired size."
         ],
-        "Image": "/images/step2.jpg"
+        "Image": "/RecipesWebsite_App/images/step2.jpg"
       },
       {
         "Subheading": "Cook the meatballs",
         "Descriptions": [
           "Cook the meatballs in tomato sauce until they are fully cooked and tender."
         ],
-        "Image": "/images/step3.jpg"
+        "Image": "/RecipesWebsite_App/images/step3.jpg"
       }
     ],
     "RecipeNutrion": {
@@ -111,35 +111,35 @@
         "Descriptions": [
           "In a bowl, whisk together flour, sugar, baking powder, and salt."
         ],
-        "Image": "/images/pancake_step1.jpg"
+        "Image": "/RecipesWebsite_App/images/pancake_step1.jpg"
       },
       {
         "Subheading": "Add wet ingredients",
         "Descriptions": [
           "In a separate bowl, whisk together milk, eggs, and melted butter."
         ],
-        "Image": "/images/pancake_step2.jpg"
+        "Image": "/RecipesWebsite_App/images/pancake_step2.jpg"
       },
       {
         "Subheading": "Combine the mixtures",
         "Descriptions": [
           "Pour the wet ingredients into the dry ingredients and mix until just combined."
         ],
-        "Image": "/images/pancake_step3.jpg"
+        "Image": "/RecipesWebsite_App/images/pancake_step3.jpg"
       },
       {
         "Subheading": "Cook the pancakes",
         "Descriptions": [
           "Heat a non-stick pan over medium heat. Pour a scoop of batter onto the pan and cook until bubbles form on the surface. Flip and cook the other side until golden brown."
         ],
-        "Image": "/images/pancake_step4.jpg"
+        "Image": "/RecipesWebsite_App/images/pancake_step4.jpg"
       },
       {
         "Subheading": "Serve with maple syrup",
         "Descriptions": [
           "Stack the pancakes on a plate and serve them warm with maple syrup and additional toppings if desired."
         ],
-        "Image": "/images/pancake_step5.jpg"
+        "Image": "/RecipesWebsite_App/images/pancake_step5.jpg"
       }
     ],
     "RecipeNutrion": {
@@ -168,42 +168,42 @@
         "Descriptions": [
           "Cook the pasta according to package instructions until al dente. Drain and set aside."
         ],
-        "Image": "/images/pasta_step1.jpg"
+        "Image": "/RecipesWebsite_App/images/pasta_step1.jpg"
       },
       {
         "Subheading": "Saute onion and garlic",
         "Descriptions": [
           "In a pan, sauté chopped onion and minced garlic in olive oil until fragrant."
         ],
-        "Image": "/images/pasta_step2.jpg"
+        "Image": "/RecipesWebsite_App/images/pasta_step2.jpg"
       },
       {
         "Subheading": "Cook the ground beef",
         "Descriptions": [
           "Add ground beef to the pan with onions and garlic. Cook until browned and fully cooked."
         ],
-        "Image": "/images/pasta_step3.jpg"
+        "Image": "/RecipesWebsite_App/images/pasta_step3.jpg"
       },
       {
         "Subheading": "Mix in the tomato sauce",
         "Descriptions": [
           "Pour tomato sauce into the pan with the beef mixture. Simmer for a few minutes to combine the flavors."
         ],
-        "Image": "/images/pasta_step4.jpg"
+        "Image": "/RecipesWebsite_App/images/pasta_step4.jpg"
       },
       {
         "Subheading": "Toss with cooked pasta",
         "Descriptions": [
           "Add the cooked pasta to the sauce and toss until the pasta is coated evenly."
         ],
-        "Image": "/images/pasta_step5.jpg"
+        "Image": "/RecipesWebsite_App/images/pasta_step5.jpg"
       },
       {
         "Subheading": "Serve and garnish",
         "Descriptions": [
           "Serve the pasta while it's hot. Garnish with grated cheese and fresh herbs, if desired."
         ],
-        "Image": "/images/pasta_step6.jpg"
+        "Image": "/RecipesWebsite_App/images/pasta_step6.jpg"
       }
     ],
     "RecipeNutrion": {
@@ -232,42 +232,42 @@
       "Descriptions": [
         "In a bowl, mix soy sauce, water, sesame oil, minced garlic, grated ginger, and cornstarch to make the stir-fry sauce."
       ],
-      "Image": "/images/stirfry_step1.jpg"
+      "Image": "/RecipesWebsite_App/images/stirfry_step1.jpg"
     },
     {
       "Subheading": "Slice the chicken and vegetables",
       "Descriptions": [
         "Slice the chicken breast, bell peppers, broccoli, and carrots into thin, uniform pieces."
       ],
-      "Image": "/images/stirfry_step2.jpg"
+      "Image": "/RecipesWebsite_App/images/stirfry_step2.jpg"
     },
     {
       "Subheading": "Cook the chicken",
       "Descriptions": [
         "In a wok or large skillet, stir-fry the chicken in a bit of sesame oil until cooked through. Remove from the pan and set aside."
       ],
-      "Image": "/images/stirfry_step3.jpg"
+      "Image": "/RecipesWebsite_App/images/stirfry_step3.jpg"
     },
     {
       "Subheading": "Stir-fry the vegetables",
       "Descriptions": [
         "Stir-fry the vegetables in the same wok until they are crisp-tender."
       ],
-      "Image": "/images/stirfry_step4.jpg"
+      "Image": "/RecipesWebsite_App/images/stirfry_step4.jpg"
     },
     {
       "Subheading": "Combine chicken, vegetables, and sauce",
       "Descriptions": [
         "Return the chicken to the wok, add the prepared sauce, and toss everything together until well coated."
       ],
-      "Image": "/images/stirfry_step5.jpg"
+      "Image": "/RecipesWebsite_App/images/stirfry_step5.jpg"
     },
     {
       "Subheading": "Serve with rice",
       "Descriptions": [
         "Serve the chicken stir-fry over cooked rice and garnish with sesame seeds and green onions, if desired."
       ],
-      "Image": "/images/stirfry_step6.jpg"
+      "Image": "/RecipesWebsite_App/images/stirfry_step6.jpg"
     }
   ],
   "RecipeNutrion": {
@@ -296,35 +296,35 @@
       "Descriptions": [
         "Cook the ramen noodles according to the package instructions. Drain and set aside."
       ],
-      "Image": "/images/ramen_step1.jpg"
+      "Image": "/RecipesWebsite_App/images/ramen_step1.jpg"
     },
     {
       "Subheading": "Heat the broth",
       "Descriptions": [
         "In a separate pot, heat the broth until it's hot and ready for serving."
       ],
-      "Image": "/images/ramen_step2.jpg"
+      "Image": "/RecipesWebsite_App/images/ramen_step2.jpg"
     },
     {
       "Subheading": "Add the cooked noodles",
       "Descriptions": [
         "Add the cooked ramen noodles to the hot broth. Stir to combine."
       ],
-      "Image": "/images/ramen_step3.jpg"
+      "Image": "/RecipesWebsite_App/images/ramen_step3.jpg"
     },
     {
       "Subheading": "Top with boiled egg and green onions",
       "Descriptions": [
         "Place a boiled egg cut in half and sliced green onions on top of the ramen."
       ],
-      "Image": "/images/ramen_step4.jpg"
+      "Image": "/RecipesWebsite_App/images/ramen_step4.jpg"
     },
     {
       "Subheading": "Garnish with seaweed and season",
       "Descriptions": [
         "Add some seaweed for extra flavor. Season with soy sauce according to taste."
       ],
-      "Image": "/images/ramen_step5.jpg"
+      "Image": "/RecipesWebsite_App/images/ramen_step5.jpg"
     }
   ],
   "RecipeNutrion": {
@@ -353,35 +353,35 @@
       "Descriptions": [
         "Preheat the oven to 400°F (200°C)."
       ],
-      "Image": "/images/salmon_step1.jpg"
+      "Image": "/RecipesWebsite_App/images/salmon_step1.jpg"
     },
     {
       "Subheading": "Prepare the salmon",
       "Descriptions": [
         "Place the salmon fillet on a baking sheet lined with parchment paper."
       ],
-      "Image": "/images/salmon_step2.jpg"
+      "Image": "/RecipesWebsite_App/images/salmon_step2.jpg"
     },
     {
       "Subheading": "Drizzle with olive oil and lemon",
       "Descriptions": [
         "Drizzle olive oil and lemon juice over the salmon fillet."
       ],
-      "Image": "/images/salmon_step3.jpg"
+      "Image": "/RecipesWebsite_App/images/salmon_step3.jpg"
     },
     {
       "Subheading": "Sprinkle with minced garlic and dill",
       "Descriptions": [
         "Sprinkle minced garlic and dill over the salmon. Season with salt and pepper."
       ],
-      "Image": "/images/salmon_step4.jpg"
+      "Image": "/RecipesWebsite_App/images/salmon_step4.jpg"
     },
     {
       "Subheading": "Roast in the oven",
       "Descriptions": [
         "Roast the salmon in the preheated oven for 20-25 minutes, or until it's cooked to your desired doneness."
       ],
-      "Image": "/images/salmon_step5.jpg"
+      "Image": "/RecipesWebsite_App/images/salmon_step5.jpg"
     }
   ],
   "RecipeNutrion": {
