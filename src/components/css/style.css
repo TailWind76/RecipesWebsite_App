@@ -196,10 +196,9 @@ a {
 }
 .banner-text_author img {
   float: left;
-  width: 30%;
+  width: 25%;
   height: 100%;
   border-radius: 50%;
-  margin-right: 10%;
 }
 .banner-text_author .post-time {
   font-family: Inter;
@@ -1057,6 +1056,14 @@ footer nav .nav-item {
   color: #fff;
 }
 
+.BlogPage {
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 .author-blog {
   width: 30%;
   margin: auto;
@@ -1189,11 +1196,11 @@ footer nav .nav-item {
     height: auto !important;
   }
   .banner_text h2 {
-    font-size: 20px;
+    font-size: 20px !important;
     width: 100%;
   }
   .banner_text-description {
-    font-size: 12px;
+    font-size: 14px !important;
   }
   .banner-icons {
     height: 50px !important;
@@ -1232,14 +1239,6 @@ footer nav .nav-item {
     width: 45%;
     height: 350px;
     max-height: fit-content;
-    overflow: scroll;
-  }
-  .recipes__item::-webkit-scrollbar {
-    display: none;
-  }
-  .recipes__item {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
   }
   .recipes__item h3 {
     font-size: 20px;
@@ -1431,51 +1430,6 @@ footer nav .nav-item {
     border: none;
   }
 }
-@media screen and (max-width: 650px) {
-  .banner-icons {
-    gap: 40%;
-  }
-  .RecipePage {
-    padding: 0;
-  }
-  .Form_main h2 {
-    font-size: 25px;
-  }
-  .BlogPage {
-    padding-left: 5%;
-    padding-right: 5%;
-  }
-  .banner-action {
-    display: block;
-    left: 20%;
-    width: 60% !important;
-    display: flex;
-    flex-direction: row;
-  }
-  .banner-action p {
-    width: 80%;
-    font-size: 12px !important;
-  }
-  .banner-content__main {
-    width: 100% !important;
-  }
-  .banner-text_author p {
-    font-size: 12px;
-  }
-  .banner-action {
-    box-sizing: border-box;
-    padding: 5%;
-  }
-  .banner-icon p {
-    font-size: 12px !important;
-  }
-  .Homepage_recipes__items {
-    padding: 0;
-  }
-  .Homepage_introduce__banner {
-    height: 600px !important;
-  }
-}
 @media screen and (max-width: 1300px) {
   .DailyRecipe {
     padding-left: 5%;
@@ -1483,7 +1437,7 @@ footer nav .nav-item {
   }
   .recipes__item .recipe_info {
     justify-content: space-around;
-    flex-direction: column;
+    flex-direction: row;
   }
   .banner-icon {
     width: 40%;
@@ -1492,16 +1446,9 @@ footer nav .nav-item {
     width: 50%;
   }
 }
-@media screen and (min-width: 2000px) {
+@media screen and (max-width: 2000px) {
   .BlogPage {
-    padding-left: 25%;
-    padding-right: 25%;
-  }
-}
-@media screen and (min-width: 4000px) {
-  .BlogPage {
-    padding-left: 35%;
-    padding-right: 35%;
+    padding-left: 20% !important;
   }
 }
 
